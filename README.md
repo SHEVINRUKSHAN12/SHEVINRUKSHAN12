@@ -12,7 +12,13 @@
     <a href="https://www.linkedin.com/in/shevin-jr/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:contact@example.com">
+    <a href="https://www.instagram.com/iamshevin_/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.facebook.com/iamSHEVIN01" target="_blank">
+      <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="mailto:shevinrukshan12@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
@@ -32,7 +38,7 @@ I'm a passionate **Full-Stack Web Developer** from Sri Lanka 🇱🇰, dedicated
 - 🌱 **Learning**: Mastering advanced web architectures, UI interactions, and expanding backend skills.
 - 💡 **Focus**: React, Node.js, modern styling libraries, database optimization, and premium user experiences.
 - 💬 **Ask me about**: Frontend performance, responsive UI design, clean code practices, and the latest web technologies.
-- 📫 **Reach me at**: [contact@example.com](mailto:contact@example.com)
+- 📫 **Reach me at**: [shevinrukshan12@gmail.com](mailto:shevinrukshan12@gmail.com)
 - ⚡ **Fun fact**: I'm always looking to align code with design, a tech enthusiast, and a creative problem solver!
 
 <br clear="right" />
