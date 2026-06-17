@@ -5,7 +5,7 @@
   
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Wave" />
-    Hi, I'm Shevin Rukshan!
+    Hi, I'm Shevin Rukshan Rathnasinghe!
   </h1>
 
   <p>
@@ -114,7 +114,7 @@ I'm a passionate **Full-Stack Web Developer** from Sri Lanka 🇱🇰, dedicated
 
 <div align="center">
   <a href="https://github.com/SHEVINRUKSHAN12">
-    <img src="https://komarev.com/ghpvc/?username=SHEVINRUKSHAN12&label=Profile%20views&color=FF6B35&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SHEVINRUKSHAN12&label=Profile%20views&color=FF6B35&style=for-the-badge&base=203" alt="Profile Views" />
   </a>
   <br /><br />
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Sitting Developer Coding" />
