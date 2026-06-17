@@ -74,6 +74,19 @@ I'm a passionate **Full-Stack Web Developer** from Sri Lanka 🇱🇰, dedicated
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3aceafbf-f41e-4650-8701-4e8c2af6338d.gif" width="100%" alt="Divider" />
 
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/SHEVINRUKSHAN12/25-26J-201-Research-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHEVINRUKSHAN12&repo=25-26J-201-Research-project&theme=tokyonight&bg_color=0D1117&border_color=FF6B35&show_icons=true&icon_color=FF6B35&text_color=FFFFFF&title_color=FF6B35" alt="Research Project" />
+  </a>
+  <a href="https://github.com/SHEVINRUKSHAN12/Booking-Shevin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHEVINRUKSHAN12&repo=Booking-Shevin&theme=tokyonight&bg_color=0D1117&border_color=FF6B35&show_icons=true&icon_color=FF6B35&text_color=FFFFFF&title_color=FF6B35" alt="Booking Shevin" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3aceafbf-f41e-4650-8701-4e8c2af6338d.gif" width="100%" alt="Divider" />
+
 ## 📊 GitHub Stats
 
 <p align="center">
